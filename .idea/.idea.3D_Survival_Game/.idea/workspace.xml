@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/CampFire.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/CampFire.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environments/CampFire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DamageIndicator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56a174f45d3e46eab37fee37b4ee165d1fe00/0e/0d906e0b/Physics.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56a174f45d3e46eab37fee37b4ee165d1fe00/ce/e9ff0f1a/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56a174f45d3e46eab37fee37b4ee165d1fe00/d0/b50ff02d/ForceMode.cs" root0="SKIP_HIGHLIGHTING" />
@@ -103,7 +106,10 @@
       <workItem from="1703590831746" duration="206000" />
       <workItem from="1703591257651" duration="136000" />
       <workItem from="1703596713481" duration="2420000" />
-      <workItem from="1703642296670" duration="205000" />
+      <workItem from="1703642296670" duration="1327000" />
+      <workItem from="1703648804849" duration="39000" />
+      <workItem from="1703649162860" duration="11000" />
+      <workItem from="1703649312819" duration="83000" />
     </task>
     <servers />
   </component>
