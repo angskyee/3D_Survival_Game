@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/LowPolyFoodLite/Prefabs/Carrot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/LowPolyFoodLite/Prefabs/Carrot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/LowPolyRPGWeapons_Lite/Prefabs/Ax_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/LowPolyRPGWeapons_Lite/Prefabs/Ax_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/LowPolyRPGWeapons_Lite/Prefabs/Sword_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/LowPolyRPGWeapons_Lite/Prefabs/Sword_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/Log.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/Log.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/Rock1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/Rock1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Items/InteractionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Items/InteractionManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +115,7 @@
       <workItem from="1703649162860" duration="11000" />
       <workItem from="1703649312819" duration="83000" />
       <workItem from="1703918748905" duration="647000" />
-      <workItem from="1703951459083" duration="2936000" />
+      <workItem from="1703951459083" duration="3640000" />
     </task>
     <servers />
   </component>
