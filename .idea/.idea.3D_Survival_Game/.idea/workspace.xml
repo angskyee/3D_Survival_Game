@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Fonts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fonts/3D_Survival_Game.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fonts/3D_Survival_Game.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Axe.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Axe.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Carrot.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Carrot.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Rock.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Rock.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Sword.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Sword.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Wood.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Item_Wood.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/ItemSlot.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/ItemSlot.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Inventory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Inventory.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ItemSlotUI.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ItemSlotUI.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Externals/Fonts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Externals/Fonts/3D_Survival_Game.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Externals/Fonts/3D_Survival_Game.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scriptable Object/Scripts/ItemData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptable Object/Scripts/ItemData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Items/InteractionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Items/InteractionManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Items/ItemObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Items/ItemObject.cs" afterDir="false" />
-    </list>
+    <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +111,7 @@
       <workItem from="1703649312819" duration="83000" />
       <workItem from="1703918748905" duration="647000" />
       <workItem from="1703951459083" duration="3640000" />
-      <workItem from="1704112205549" duration="1447000" />
+      <workItem from="1704112205549" duration="1657000" />
     </task>
     <servers />
   </component>
