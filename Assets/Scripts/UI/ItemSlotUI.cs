@@ -45,8 +45,8 @@ public class ItemSlotUI : MonoBehaviour
         quatityText.text = string.Empty;
     }
 
-    // public void OnButtonClick()
-    // {
-    //     Inventory.instance.SelectItem(index);
-    // }
+    public void OnButtonClick()
+    {
+        Inventory.instance.SelectItem(index);
+    }
 }

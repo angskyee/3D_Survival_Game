@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/ItemSlot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/ItemSlot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/ItemSlotUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ItemSlotUI.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/InteractionManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/ItemObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DamageIndicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fc1a0556e49244d7a68d63b625fb5ec2173e00/a4/12116d61/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -117,6 +120,7 @@
       <workItem from="1704112205549" duration="1657000" />
       <workItem from="1704189352707" duration="52000" />
       <workItem from="1704189410563" duration="1078000" />
+      <workItem from="1704269676576" duration="1083000" />
     </task>
     <servers />
   </component>
