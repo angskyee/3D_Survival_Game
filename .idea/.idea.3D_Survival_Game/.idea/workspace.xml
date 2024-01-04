@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Equip.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Equip.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Equips/Equip_Axe.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Equips/Equip_Axe.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environments/CampFire.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/InteractionManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/ItemObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Equip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DamageIndicator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fc1a0556e49244d7a68d63b625fb5ec2173e00/a4/12116d61/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -121,6 +125,7 @@
       <workItem from="1704189410563" duration="1078000" />
       <workItem from="1704269676576" duration="1617000" />
       <workItem from="1704284708246" duration="109000" />
+      <workItem from="1704331791459" duration="232000" />
     </task>
     <servers />
   </component>
