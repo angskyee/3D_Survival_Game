@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="" />
+    <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/Tree1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/SimpleLowPolyNature/Prefabs/Tree1.prefab" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Equip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/EquipTool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DamageIndicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fc1a0556e49244d7a68d63b625fb5ec2173e00/88/f9305d75/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fc1a0556e49244d7a68d63b625fb5ec2173e00/a4/12116d61/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -123,6 +127,8 @@
       <workItem from="1704331791459" duration="232000" />
       <workItem from="1704708542358" duration="1233000" />
       <workItem from="1704717879442" duration="436000" />
+      <workItem from="1704719560859" duration="233000" />
+      <workItem from="1704766290980" duration="1111000" />
     </task>
     <servers />
   </component>
