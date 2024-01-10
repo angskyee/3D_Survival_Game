@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="" />
+    <list default="true" id="78fa0e6a-5d3b-4363-8c2f-ad16677a5555" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Bear.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Bear.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Survival_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Externals/Blink/Art/Animals/Stylized/Bear/Bear_Prefabs/Bear_4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Externals/Blink/Art/Animals/Stylized/Bear/Bear_Prefabs/Bear_4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Resource/Resource_Rock.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Resource/Resource_Rock.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Resource/Resource_Tree.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Resource/Resource_Tree.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +134,7 @@
       <workItem from="1704717879442" duration="436000" />
       <workItem from="1704719560859" duration="233000" />
       <workItem from="1704766290980" duration="1925000" />
+      <workItem from="1704863644330" duration="488000" />
     </task>
     <servers />
   </component>
