@@ -90,7 +90,7 @@ public class NPC : MonoBehaviour, IDamagable
 
     private void AttackingUpdate()
     {
-        if(playerDistance > attackDistance || !IsPlaterInFireldOfView())
+        if(playerDistance > attackDistance || !IsPlayerInFireldOfView())
         {
             agent.isStopped = false;
             NavMeshPath path = new NavMeshPath();
@@ -130,7 +130,7 @@ public class NPC : MonoBehaviour, IDamagable
         }
     }
 
-    bool IsPlaterInFireldOfView()
+    bool IsPlayerInFireldOfView()
     {
         Vector3 directionToPlayer = PlayerController.instance.transform.position - transform.position;
         float angle = Vector3.Angle(transform.forward, directionToPlayer);
